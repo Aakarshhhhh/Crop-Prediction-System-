@@ -1,0 +1,2 @@
+🌱 Crop Prediction System
+The Crop Prediction System is a machine learning-based solution designed to assist farmers and agricultural experts in determining the most suitable crop for cultivation based on real-time environmental and soil parameters. The system takes input values such as nitrogen, phosphorus, and calcium content in the soil, along with temperature, humidity, and other relevant conditions. Using a trained ML model, it predicts the ideal crop for a given set of inputs, helping to improve yield and optimize land use.
